@@ -1,8 +1,10 @@
 package Second;
 
+import java.util.Objects;
+
 public abstract class Mammal extends Animal{
 
-    protected Spine spine;
+    protected final Spine spine;
 
     public Mammal(String name, double weight, double length, Spine spine) {
         super(name, weight, length);
@@ -13,4 +15,16 @@ public abstract class Mammal extends Animal{
         System.out.println(name + " пьёт молоко");
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Mammal mammal = (Mammal) o;
+        return Objects.equals(spine, mammal.spine);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(spine);
+    }
 }

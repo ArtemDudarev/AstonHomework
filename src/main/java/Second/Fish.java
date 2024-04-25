@@ -8,6 +8,6 @@ public class Fish extends Animal implements Waterable{
 
     @Override
     public void swim() {
-
     }
+
 }

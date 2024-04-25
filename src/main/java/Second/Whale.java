@@ -9,4 +9,5 @@ public class Whale extends Mammal implements Waterable{
     public void swim() {
         System.out.println(name + " плывёт");
     }
+
 }
