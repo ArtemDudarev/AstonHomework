@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22fd4ae8-9817-4732-8aeb-d3e9cf0af84c" name="Changes" comment="First addition">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Second/Test.java" afterDir="false" />
+    <list default="true" id="22fd4ae8-9817-4732-8aeb-d3e9cf0af84c" name="Changes" comment="Adding hashCode() and equals()">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/PuttingIntoPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fourth/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Spine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Spine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Wool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Second/Wool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Spine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Spine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Waterable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Waterable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Whale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Whale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Wool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Wool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/AirVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/AirVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Carryable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Carryable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/GroundVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/GroundVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Helicopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Plain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Plain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Propeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Propeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Tanker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Tanker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/WaterVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/WaterVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Wing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Wing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +66,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.MyList.executor": "Run",
+    "Application.PuttingIntoPractice.executor": "Run",
+    "Application.Sec.Test.executor": "Run",
     "Application.Second.Test.executor": "Run",
+    "Application.Task1.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Third.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/AstonHW/src/main/java/org/example",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/08022024",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -59,13 +88,13 @@
       <recent name="C:\Users\user\IdeaProjects\AstonHW\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Second.Test">
-    <configuration name="Second.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Second.Test" />
+  <component name="RunManager" selected="Application.PuttingIntoPractice">
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fourth.MyList" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Second.*" />
+          <option name="PATTERN" value="Fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +102,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.First.Test" />
+    <configuration name="PuttingIntoPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fifth.PuttingIntoPractice" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.First.*" />
+          <option name="PATTERN" value="Fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sec.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sec.Test" />
+      <module name="AstonHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fourth.Task1" />
+      <module name="AstonHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fourth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Third.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Third.Test" />
+      <module name="AstonHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Third.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Second.Test" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PuttingIntoPractice" />
+        <item itemvalue="Application.MyList" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Third.Test" />
+        <item itemvalue="Application.Sec.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -110,11 +181,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713942170177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding hashCode() and equals()">
+      <option name="closed" value="true" />
+      <created>1714033006045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714033006045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="First addition" />
+    <MESSAGE value="Adding hashCode() and equals()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding hashCode() and equals()" />
   </component>
 </project>
