@@ -5,38 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22fd4ae8-9817-4732-8aeb-d3e9cf0af84c" name="Changes" comment="Adding hashCode() and equals()">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/PuttingIntoPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fifth/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fourth/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/BufferedInputStreamRunnerNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/BufferedOutputStreamRunnerNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ByteArrayInputStreamRunnerNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ByteArrayOutputStreamRunnerNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ReadWriteWithFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/BufferedInputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/BufferedOutputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/ByteArrayInputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/ByteArrayOutputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/DataIoStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/FileInputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/FileOutputStreamRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text3New.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Spine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Spine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Waterable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Waterable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Whale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Whale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Second/Wool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Third/Wool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/AirVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/AirVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Boat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Carryable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Carryable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/GroundVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/GroundVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Plain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Plain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Propeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Propeller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Tanker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Tanker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/WaterVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/WaterVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Wheel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/First/Wing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sec/Wing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +49,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BufferedInputStreamRunnerNew.executor": "Run",
+    "Application.BufferedOutputStreamRunner.executor": "Run",
+    "Application.BufferedOutputStreamRunnerNew.executor": "Run",
+    "Application.ByteArrayInputStreamRunner.executor": "Run",
+    "Application.ByteArrayInputStreamRunnerNew.executor": "Run",
+    "Application.ByteArrayOutputStreamRunner.executor": "Run",
+    "Application.ByteArrayOutputStreamRunnerNew.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyList.executor": "Run",
     "Application.PuttingIntoPractice.executor": "Run",
+    "Application.ReadWriteWithFiles.executor": "Run",
     "Application.Sec.Test.executor": "Run",
     "Application.Second.Test.executor": "Run",
     "Application.Task1.executor": "Run",
@@ -76,8 +68,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/08022024",
-    "project.structure.last.edited": "Facets",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/AstonHW/src/main/java/Sixth",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "File.Encoding"
@@ -85,16 +77,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\AstonHW\src\main\java\Sixth" />
       <recent name="C:\Users\user\IdeaProjects\AstonHW\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PuttingIntoPractice">
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fourth.MyList" />
+  <component name="RunManager" selected="Application.ByteArrayOutputStreamRunnerNew">
+    <configuration name="BufferedInputStreamRunnerNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sixth.New.BufferedInputStreamRunnerNew" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fourth.*" />
+          <option name="PATTERN" value="Sixth.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PuttingIntoPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fifth.PuttingIntoPractice" />
+    <configuration name="ByteArrayInputStreamRunnerNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sixth.New.ByteArrayInputStreamRunnerNew" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fifth.*" />
+          <option name="PATTERN" value="Sixth.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sec.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sec.Test" />
+    <configuration name="ByteArrayOutputStreamRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sixth.Old.ByteArrayOutputStreamRunner" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sec.*" />
+          <option name="PATTERN" value="Sixth.Old.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fourth.Task1" />
+    <configuration name="ByteArrayOutputStreamRunnerNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sixth.New.ByteArrayOutputStreamRunnerNew" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fourth.*" />
+          <option name="PATTERN" value="Sixth.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Third.Test" />
+    <configuration name="ReadWriteWithFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sixth.New.ReadWriteWithFiles" />
       <module name="AstonHW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Third.*" />
+          <option name="PATTERN" value="Sixth.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PuttingIntoPractice" />
-        <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Third.Test" />
-        <item itemvalue="Application.Sec.Test" />
+        <item itemvalue="Application.ByteArrayOutputStreamRunnerNew" />
+        <item itemvalue="Application.ByteArrayOutputStreamRunner" />
+        <item itemvalue="Application.ByteArrayInputStreamRunnerNew" />
+        <item itemvalue="Application.ReadWriteWithFiles" />
+        <item itemvalue="Application.BufferedInputStreamRunnerNew" />
       </list>
     </recent_temporary>
   </component>
@@ -196,5 +189,20 @@
     <MESSAGE value="First addition" />
     <MESSAGE value="Adding hashCode() and equals()" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding hashCode() and equals()" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Fourth/MyList.java</url>
+          <line>12</line>
+          <properties class="Fourth.MyList" method="add">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
