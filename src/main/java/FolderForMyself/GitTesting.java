@@ -5,7 +5,8 @@ public class GitTesting {
 
     }
 
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        System.out.println("Класс для тестирования git");
     }
 }
