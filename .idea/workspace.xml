@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22fd4ae8-9817-4732-8aeb-d3e9cf0af84c" name="Changes" comment="Adding hashCode() and equals()">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/BufferedInputStreamRunnerNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/BufferedOutputStreamRunnerNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ByteArrayInputStreamRunnerNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ByteArrayOutputStreamRunnerNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/New/ReadWriteWithFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/BufferedInputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/BufferedOutputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/ByteArrayInputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/ByteArrayOutputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/DataIoStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/FileInputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sixth/Old/FileOutputStreamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text3New.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fourth/MyList.java" afterDir="false" />
-    </list>
+    <list default="true" id="22fd4ae8-9817-4732-8aeb-d3e9cf0af84c" name="Changes" comment="Adding hashCode() and equals()" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,34 +30,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BufferedInputStreamRunnerNew.executor": "Run",
-    "Application.BufferedOutputStreamRunner.executor": "Run",
-    "Application.BufferedOutputStreamRunnerNew.executor": "Run",
-    "Application.ByteArrayInputStreamRunner.executor": "Run",
-    "Application.ByteArrayInputStreamRunnerNew.executor": "Run",
-    "Application.ByteArrayOutputStreamRunner.executor": "Run",
-    "Application.ByteArrayOutputStreamRunnerNew.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyList.executor": "Run",
-    "Application.PuttingIntoPractice.executor": "Run",
-    "Application.ReadWriteWithFiles.executor": "Run",
-    "Application.Sec.Test.executor": "Run",
-    "Application.Second.Test.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Third.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/AstonHW/src/main/java/Sixth",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BufferedInputStreamRunnerNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedOutputStreamRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedOutputStreamRunnerNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteArrayInputStreamRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteArrayInputStreamRunnerNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteArrayOutputStreamRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteArrayOutputStreamRunnerNew.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PuttingIntoPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadWriteWithFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sec.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Third.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/AstonHW/src/main/java/Sixth&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\AstonHW\src\main\java\Sixth" />
@@ -184,6 +167,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First addition" />
