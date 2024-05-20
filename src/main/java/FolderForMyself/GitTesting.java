@@ -8,5 +8,6 @@ public class GitTesting {
 
     public static void main(String[] args) {
         System.out.println("Класс для тестирования git");
+        System.out.println("Перед слиянием веток");
     }
 }
