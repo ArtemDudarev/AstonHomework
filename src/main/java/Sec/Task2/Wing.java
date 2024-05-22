@@ -1,4 +1,4 @@
-package Sec;
+package Sec.Task2;
 
 public class Wing {
     private double length;

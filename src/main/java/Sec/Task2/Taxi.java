@@ -1,11 +1,6 @@
-package Sec;
+package Sec.Task2;
 
-public class Truck implements GroundVehicle, Carryable{
-    @Override
-    public void transport(String something) {
-
-    }
-
+public class Taxi implements GroundVehicle{
     @Override
     public void getStuck() {
 

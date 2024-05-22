@@ -1,8 +1,13 @@
-package Sec;
+package Sec.Task2;
 
-public class Taxi implements GroundVehicle{
+public class Helicopter implements AirVehicle {
     @Override
-    public void getStuck() {
+    public void landing() {
+
+    }
+
+    @Override
+    public void TakeOff() {
 
     }
 

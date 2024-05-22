@@ -1,13 +1,13 @@
-package Sec;
+package Sec.Task2;
 
-public class Helicopter implements AirVehicle {
+public class Truck implements GroundVehicle, Carryable{
     @Override
-    public void landing() {
+    public void transport(String something) {
 
     }
 
     @Override
-    public void TakeOff() {
+    public void getStuck() {
 
     }
 

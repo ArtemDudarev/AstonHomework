@@ -2,21 +2,21 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/AirVehicle.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Boat.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Carryable.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/GroundVehicle.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Helicopter.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Plain.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Propeller.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Tanker.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Taxi.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Test.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Truck.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Vehicle.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/WaterVehicle.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Wheel.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Wing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/AirVehicle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Boat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Carryable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/GroundVehicle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Helicopter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Plain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Propeller.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Tanker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Taxi.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Truck.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Vehicle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/WaterVehicle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Wheel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Sec/Task2/Wing.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

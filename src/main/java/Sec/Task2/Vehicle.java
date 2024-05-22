@@ -1,4 +1,4 @@
-package Sec;
+package Sec.Task2;
 
 public interface Vehicle {
     //можно перенести в отдельные интерфейсы
