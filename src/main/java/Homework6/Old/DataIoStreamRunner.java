@@ -14,7 +14,7 @@ public class DataIoStreamRunner {
     }
 
     private static void writeDataToFile(Person tom) {
-        try (DataOutputStream dos = new DataOutputStream(new FileOutputStream("resources/data.bin"))) {
+        try (DataOutputStream dos = new DataOutputStream(new FileOutputStream("src/main/resources/data.bin"))) {
             // записываем значения
             dos.writeUTF(tom.name);
             dos.writeInt(tom.age);
@@ -27,7 +27,7 @@ public class DataIoStreamRunner {
     }
 
     private static void readDataFromFile() {
-        try (DataInputStream dos = new DataInputStream(new FileInputStream("data.bin"))) {
+        try (DataInputStream dos = new DataInputStream(new FileInputStream("src/main/resources/data.bin"))) {
             // записываем значения
             String name = dos.readUTF();
             int age = dos.readInt();
