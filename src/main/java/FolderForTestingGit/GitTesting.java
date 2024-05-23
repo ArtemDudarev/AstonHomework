@@ -1,4 +1,4 @@
-package FolderForMyself;
+package FolderForTestingGit;
 
 public class GitTesting {
     public void addBranch(){
